@@ -1,0 +1,139 @@
+.ap-btn{
+    border-radius: 50px !important;
+    border: 1px solid white !important;
+    color: white !important;
+}
+.home-sec1{
+    background-image: url(../images/docter-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn:hover{
+    background-color: white !important;
+    color: #049CF7 !important;
+}
+.nav-bar-fix{
+    transition: all 0.0s ease-in;
+}
+.nav-bar-fix.sticky{
+    /* background: #2D79B5 !important; */
+    background: #2D79B5;
+}
+.navbar-collapse.show{
+    background-color: #2D79B5 !important;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color: #049CF7 !important;
+    font-weight: 800 !important;
+    text-shadow: 2px 2px #00000063 !important;
+}
+.home-btn{
+    background-color: #049CF7 !important;
+    color: white !important;
+
+}
+
+.box-shadow{
+    box-shadow: 2px 2px 34px rgb(223, 218, 218);
+    border-radius: 14px;
+}
+
+/* third section */
+.sec3-color{
+    background-color: #F4F7FA !important;
+}
+.sec3-depart{
+    color: #9C9D9D;
+}
+.sec3-sp{
+    color: #015C9D;
+}
+.fa-house-medical{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-brain{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-tooth{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-eye{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-x-ray{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-heart{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.cursor{
+    cursor: pointer;
+}
+/* footer section start */
+.footer-color{
+    background-color: #222222;
+}
+
+/* about section start */
+.about-sec1{
+    background-image: url(../images/doc-about-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+    float: left;
+    padding-right: var(--bs-breadcrumb-item-padding-x);
+    color: white !important;
+    content: var(--bs-breadcrumb-divider, "/");
+}
+.breadcrumb{
+    text-align: center !important;
+}
+
+/* first section start */
+.fa-capsules {
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-sharp{
+    font-size: 60px !important;
+    color: #059CF7;
+}
+.fa-user-doctor{
+    font-size: 60px !important;
+    color: #059CF7 !important;
+}
+.fa-truck-medical{
+    font-size: 60px !important;
+    color: #059CF7 !important;
+}
+.fa-quote-right{
+    color: #1F669E;
+    font-size: 60px;
+}
+/* first section end */
+
+
+/* about section end */
+
+/* news section start */
+.bg-img-news1{
+    background:linear-gradient(0deg, #98caf083, #9ad0ec81), url(../images/pngwing.com\ \(3\).png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-color-news{
+    background: linear-gradient(0deg, #def0fc83, #ddf1f881);
+    border-radius: 10px;
+}
+
+/* news section end */
